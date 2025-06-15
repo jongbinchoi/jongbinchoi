@@ -1,9 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=blur&color=0:11998e,100:38ef7d&height=220&text=Hello,%20I'm%20Jongbin!&fontSize=50&animation=slideIn&fontColor=ffffff)
 
-
-
-
-
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=jongbinchoi&utm_content=line">
   <img
     src="https://render.gitanimals.org/lines/jongbinchoi?pet-id=718177385371260860"
@@ -54,14 +50,19 @@
 ---
 
 
-
-
-
 ## 🏆 Awards
 
 - (2025.05) Best Award - E-commerce Platform Project (IT Master Program)
 
 ---
+
+## 📄 Completion
+
+| Date               | Program / Activity                                                                 | Organizer                                  |
+|--------------------|-------------------------------------------------------------------------------------|--------------------------------------------|
+| 2025.05            | **Practical Project Completion Certificate**<br>_“이커머스 플랫폼 구축 및 운영 실전 프로젝트”_ |[ATOMOS](https://welcome.atmsads.io)                  |
+| 2024.03 ~ 2024.12  | **LikeLion 12th**<br>_멋쟁이사자처럼 대학생 연합 동아리 활동_                          | [LikeLion](https://likelion.net)           |
+
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jongbinchoi&theme=swift&show_icons=true)
